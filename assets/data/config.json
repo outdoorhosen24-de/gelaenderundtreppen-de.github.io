@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gelaenderundtreppen.de",
+    "hostname": "https://www.gelaenderundtreppen.de/",
+    "email": "gelaenderundtreppen.desurrealnetworks.io",
+    "organization": "gelaenderundtreppen.de",
+    "logoText": "Gelaenderundtreppen.de",
+    "title": "Treppen & Gel\u00e4nder",
+    "subline": "Der Online Shop f\u00fcr Treppen & Gel\u00e4nder",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8928434",
+        "7704018",
+        "9317769",
+        "7704224",
+        "7551070",
+        "4604419"
+    ],
+    "winnerProducts": [
+        "3882164",
+        "3882164",
+        "4987228"
+    ],
+    "featuredCategories": [
+        "Zubeh\u00f6r f\u00fcr Treppen & Gel\u00e4nder",
+        "Innentreppen",
+        "Zubeh\u00f6r f\u00fcr Treppen & Gel\u00e4nder",
+        "Innentreppen",
+        "Handl\u00e4ufe",
+        "Innentreppen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Treppen & Gel\u00e4nder",
-        "featureText": "Your featured text goes here",
+        "featureText": "Treppen & Gel\u00e4nder ist ein Shop, der sich auf die Herstellung und den Verkauf von Treppen und Gel\u00e4ndern spezialisiert hat. Wir haben eine gro\u00dfe Auswahl an verschiedenen Treppen- und Gel\u00e4ndertypen, die alle hochwertig und langlebig sind.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Treppen & Gel\u00e4nder - Dein Shop f\u00fcr Treppen und Gel\u00e4nder",
+            "metaDescription": "Treppen & Gel\u00e4nder - alles f\u00fcr Ihr Zuhause. Vom klassischen Treppengel\u00e4nder bis zum modernen Design.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Treppen & Gel\u00e4nder: Die besten Tipps f\u00fcr Ihr Zuhause",
+                    "text": "Treppen und Gel\u00e4nder sind ein wesentlicher Bestandteil jedes Hauses oder Geb\u00e4udes. Sie dienen nicht nur als Zugang zu verschiedenen Etagen, sondern auch als Mittel, um die Sicherheit der Bewohner zu gew\u00e4hrleisten.\n\nTreppen k\u00f6nnen aus verschiedenen Materialien wie Holz, Stein oder Metall hergestellt werden. Die Wahl des Materials h\u00e4ngt von verschiedenen Faktoren wie der Gr\u00f6\u00dfe der Treppe, dem Budget und den pers\u00f6nlichen Vorlieben ab.\n\nGel\u00e4nder sind in der Regel aus Metall oder Holz. Sie dienen dazu, die Treppe sicherer zu machen und die Bewohner vor dem Sturz zu sch\u00fctzen.\n\nDie meisten Treppen und Gel\u00e4nder sind in der Regel in einem guten Zustand. Es ist jedoch wichtig, sie regelm\u00e4\u00dfig zu \u00fcberpr\u00fcfen und gegebenenfalls zu reparieren oder zu ersetzen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Treppen & Gel\u00e4nder Shop",
+            "metaDescription": "Treppen & Gel\u00e4nder Shop - Hier findest du alles f\u00fcr dein Zuhause!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Treppen & Gel\u00e4nder Hersteller",
+            "metaDescription": "Treppen & Gel\u00e4nder Manufacturer - Find the perfect staircase or railing for your home. We offer a wide range of options to choose from.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Treppen & Gel\u00e4nder: $PRODUKT",
+        "defaultMetaDescription": "Treppen & Gel\u00e4nder von $HERSTELLER in $KATEGORIE. Finden Sie Ihr passendes Modell f\u00fcr Ihr Zuhause. $PRODUKT online bestellen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Treppen & Gel\u00e4nder: $KATEGORIE f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "Treppen & Gel\u00e4nder: Finden Sie die richtige $KATEGORIE f\u00fcr Ihr Zuhause bei OTTO! Gro\u00dfe Auswahl Top Service Bestellen Sie jetzt Ihre Treppe bei OTTO!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Treppen & Gel\u00e4nder $HERSTELLER - Hier finden Sie eine gro\u00dfe Auswahl an Treppen & Gel\u00e4ndern f\u00fcr Ihr Zuhause. Vom klassischen Holzgel\u00e4nder bis zum modernen Edelstahlgel\u00e4nder finden Sie bei uns alles, was Sie f\u00fcr Ihre Treppe ben\u00f6tigen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Treppen & Gel\u00e4nder",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Treppen & Gel\u00e4nder Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Treppen & Gel\u00e4nder Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
