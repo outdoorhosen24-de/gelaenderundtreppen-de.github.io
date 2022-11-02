@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "gelaenderundtreppen.de",
     "hostname": "https://www.gelaenderundtreppen.de/",
     "email": "gelaenderundtreppen.desurrealnetworks.io",
     "organization": "gelaenderundtreppen.de",
     "logoText": "Gelaenderundtreppen.de",
-    "title": "Treppen & Gel\u00e4nder",
-    "subline": "Der Online Shop f\u00fcr Treppen & Gel\u00e4nder",
+    "title": "Treppen & Geländer",
+    "subline": "Der Online Shop für Treppen & Geländer",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,11 +28,11 @@
         "4987228"
     ],
     "featuredCategories": [
-        "Zubeh\u00f6r f\u00fcr Treppen & Gel\u00e4nder",
+        "Zubehör für Treppen & Geländer",
         "Innentreppen",
-        "Zubeh\u00f6r f\u00fcr Treppen & Gel\u00e4nder",
+        "Zubehör für Treppen & Geländer",
         "Innentreppen",
-        "Handl\u00e4ufe",
+        "Handläufe",
         "Innentreppen"
     ],
     "socialMediaAccounts": [],
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Treppen & Gel\u00e4nder",
-        "featureText": "Treppen & Gel\u00e4nder ist ein Shop, der sich auf die Herstellung und den Verkauf von Treppen und Gel\u00e4ndern spezialisiert hat. Wir haben eine gro\u00dfe Auswahl an verschiedenen Treppen- und Gel\u00e4ndertypen, die alle hochwertig und langlebig sind.",
+        "mainKeyword": "Treppen & Geländer",
+        "featureText": "Treppen & Geländer ist ein Shop, der sich auf die Herstellung und den Verkauf von Treppen und Geländern spezialisiert hat. Wir haben eine große Auswahl an verschiedenen Treppen- und Geländertypen, die alle hochwertig und langlebig sind.",
         "index": {
-            "title": "Treppen & Gel\u00e4nder - Dein Shop f\u00fcr Treppen und Gel\u00e4nder",
-            "metaDescription": "Treppen & Gel\u00e4nder - alles f\u00fcr Ihr Zuhause. Vom klassischen Treppengel\u00e4nder bis zum modernen Design.",
+            "title": "Treppen & Geländer - Dein Shop für Treppen und Geländer",
+            "metaDescription": "Treppen & Geländer - alles für Ihr Zuhause. Vom klassischen Treppengeländer bis zum modernen Design.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Treppen & Gel\u00e4nder: Die besten Tipps f\u00fcr Ihr Zuhause",
-                    "text": "Treppen und Gel\u00e4nder sind ein wesentlicher Bestandteil jedes Hauses oder Geb\u00e4udes. Sie dienen nicht nur als Zugang zu verschiedenen Etagen, sondern auch als Mittel, um die Sicherheit der Bewohner zu gew\u00e4hrleisten.\n\nTreppen k\u00f6nnen aus verschiedenen Materialien wie Holz, Stein oder Metall hergestellt werden. Die Wahl des Materials h\u00e4ngt von verschiedenen Faktoren wie der Gr\u00f6\u00dfe der Treppe, dem Budget und den pers\u00f6nlichen Vorlieben ab.\n\nGel\u00e4nder sind in der Regel aus Metall oder Holz. Sie dienen dazu, die Treppe sicherer zu machen und die Bewohner vor dem Sturz zu sch\u00fctzen.\n\nDie meisten Treppen und Gel\u00e4nder sind in der Regel in einem guten Zustand. Es ist jedoch wichtig, sie regelm\u00e4\u00dfig zu \u00fcberpr\u00fcfen und gegebenenfalls zu reparieren oder zu ersetzen."
+                    "title": "Treppen & Geländer: Die besten Tipps für Ihr Zuhause",
+                    "text": "Treppen und Geländer sind ein wesentlicher Bestandteil jedes Hauses oder Gebäudes. Sie dienen nicht nur als Zugang zu verschiedenen Etagen, sondern auch als Mittel, um die Sicherheit der Bewohner zu gewährleisten.\n\nTreppen können aus verschiedenen Materialien wie Holz, Stein oder Metall hergestellt werden. Die Wahl des Materials hängt von verschiedenen Faktoren wie der Größe der Treppe, dem Budget und den persönlichen Vorlieben ab.\n\nGeländer sind in der Regel aus Metall oder Holz. Sie dienen dazu, die Treppe sicherer zu machen und die Bewohner vor dem Sturz zu schützen.\n\nDie meisten Treppen und Geländer sind in der Regel in einem guten Zustand. Es ist jedoch wichtig, sie regelmäßig zu überprüfen und gegebenenfalls zu reparieren oder zu ersetzen."
                 }
             ]
         },
         "shop": {
-            "title": "Treppen & Gel\u00e4nder Shop",
-            "metaDescription": "Treppen & Gel\u00e4nder Shop - Hier findest du alles f\u00fcr dein Zuhause!",
+            "title": "Treppen & Geländer Shop",
+            "metaDescription": "Treppen & Geländer Shop - Hier findest du alles für dein Zuhause!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Treppen & Gel\u00e4nder Hersteller",
-            "metaDescription": "Treppen & Gel\u00e4nder Manufacturer - Find the perfect staircase or railing for your home. We offer a wide range of options to choose from.",
+            "title": "Treppen & Geländer Hersteller",
+            "metaDescription": "Treppen & Geländer Manufacturer - Find the perfect staircase or railing for your home. We offer a wide range of options to choose from.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Treppen & Gel\u00e4nder: $PRODUKT",
-        "defaultMetaDescription": "Treppen & Gel\u00e4nder von $HERSTELLER in $KATEGORIE. Finden Sie Ihr passendes Modell f\u00fcr Ihr Zuhause. $PRODUKT online bestellen.",
+        "defaultTitle": "Treppen & Geländer: $PRODUKT",
+        "defaultMetaDescription": "Treppen & Geländer von $HERSTELLER in $KATEGORIE. Finden Sie Ihr passendes Modell für Ihr Zuhause. $PRODUKT online bestellen.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Treppen & Gel\u00e4nder: $KATEGORIE f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "Treppen & Gel\u00e4nder: Finden Sie die richtige $KATEGORIE f\u00fcr Ihr Zuhause bei OTTO! Gro\u00dfe Auswahl Top Service Bestellen Sie jetzt Ihre Treppe bei OTTO!",
+        "defaultTitle": "Treppen & Geländer: $KATEGORIE für Ihr Zuhause",
+        "defaultMetaDescription": "Treppen & Geländer: Finden Sie die richtige $KATEGORIE für Ihr Zuhause bei OTTO! Große Auswahl Top Service Bestellen Sie jetzt Ihre Treppe bei OTTO!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Treppen & Gel\u00e4nder $HERSTELLER - Hier finden Sie eine gro\u00dfe Auswahl an Treppen & Gel\u00e4ndern f\u00fcr Ihr Zuhause. Vom klassischen Holzgel\u00e4nder bis zum modernen Edelstahlgel\u00e4nder finden Sie bei uns alles, was Sie f\u00fcr Ihre Treppe ben\u00f6tigen.",
+        "defaultMetaDescription": "Treppen & Geländer $HERSTELLER - Hier finden Sie eine große Auswahl an Treppen & Geländern für Ihr Zuhause. Vom klassischen Holzgeländer bis zum modernen Edelstahlgeländer finden Sie bei uns alles, was Sie für Ihre Treppe benötigen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Treppen & Gel\u00e4nder",
+            "linkTitle": "Treppen & Geländer",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Treppen & Gel\u00e4nder Shop",
+            "linkTitle": "Treppen & Geländer Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Treppen & Gel\u00e4nder Marken",
+            "linkTitle": "Treppen & Geländer Marken",
             "publish": true
         },
         {
