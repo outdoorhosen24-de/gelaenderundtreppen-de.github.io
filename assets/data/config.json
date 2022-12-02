@@ -51,12 +51,15 @@
             "title": "Treppen & Geländer - Dein Shop für Treppen und Geländer",
             "metaDescription": "Treppen & Geländer - alles für Ihr Zuhause. Vom klassischen Treppengeländer bis zum modernen Design.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Treppen & Geländer: Die besten Tipps für Ihr Zuhause",
-                    "text": "Treppen und Geländer sind ein wesentlicher Bestandteil jedes Hauses oder Gebäudes. Sie dienen nicht nur als Zugang zu verschiedenen Etagen, sondern auch als Mittel, um die Sicherheit der Bewohner zu gewährleisten.\n\nTreppen können aus verschiedenen Materialien wie Holz, Stein oder Metall hergestellt werden. Die Wahl des Materials hängt von verschiedenen Faktoren wie der Größe der Treppe, dem Budget und den persönlichen Vorlieben ab.\n\nGeländer sind in der Regel aus Metall oder Holz. Sie dienen dazu, die Treppe sicherer zu machen und die Bewohner vor dem Sturz zu schützen.\n\nDie meisten Treppen und Geländer sind in der Regel in einem guten Zustand. Es ist jedoch wichtig, sie regelmäßig zu überprüfen und gegebenenfalls zu reparieren oder zu ersetzen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Treppen & Geländer: Die besten Tipps für Ihr Zuhause",
+                        "text": "Treppen und Geländer sind ein wesentlicher Bestandteil jedes Hauses oder Gebäudes. Sie dienen nicht nur als Zugang zu verschiedenen Etagen, sondern auch als Mittel, um die Sicherheit der Bewohner zu gewährleisten.\n\nTreppen können aus verschiedenen Materialien wie Holz, Stein oder Metall hergestellt werden. Die Wahl des Materials hängt von verschiedenen Faktoren wie der Größe der Treppe, dem Budget und den persönlichen Vorlieben ab.\n\nGeländer sind in der Regel aus Metall oder Holz. Sie dienen dazu, die Treppe sicherer zu machen und die Bewohner vor dem Sturz zu schützen.\n\nDie meisten Treppen und Geländer sind in der Regel in einem guten Zustand. Es ist jedoch wichtig, sie regelmäßig zu überprüfen und gegebenenfalls zu reparieren oder zu ersetzen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Treppen & Geländer Shop",
