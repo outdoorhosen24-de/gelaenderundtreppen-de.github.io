@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gelaenderundtreppen.de",
     "hostname": "https://www.gelaenderundtreppen.de/",
     "email": "gelaenderundtreppen.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Treppen & Geländer",
-        "featureText": "Treppen & Geländer ist ein Shop, der sich auf die Herstellung und den Verkauf von Treppen und Geländern spezialisiert hat. Wir haben eine große Auswahl an verschiedenen Treppen- und Geländertypen, die alle hochwertig und langlebig sind.",
+        "featureText": "Hallo und Willkommen auf unserer Seite gelanderundtreppen.de. Wir freuen uns, dich hier begrüßen zu dürfen und empfangen dich mit einem großen Sortiment rund um die Treppe. Für deinen Innenbereich hallten wir nicht nur Innentreppen bereit, sondern auch Handläufe und Zubehör für Treppen & Geländer. Solltest du nach Treppen für deinen Außenbereich suchen, so wirst du sicherlich bei unseren Außentreppen fündig. Lass uns die nächste Stufe erklimmen!",
         "index": {
-            "title": "Treppen & Geländer - Dein Shop für Treppen und Geländer",
-            "metaDescription": "Treppen & Geländer - alles für Ihr Zuhause. Vom klassischen Treppengeländer bis zum modernen Design.",
+            "title": "Treppen & Geländer | Für Innen und Außen",
+            "metaDescription": "Für deinen Innen- oder Außenbereich. Mit unserer Auswahl an Innentreppen, Handläufe, Außentreppen und Zubehör für Treppen & Geländer wirst du sicher fündig. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Treppen & Geländer Shop",
-            "metaDescription": "Treppen & Geländer Shop - Hier findest du alles für dein Zuhause!",
+            "title": "Treppen & Geländer | Online Shop",
+            "metaDescription": "Der Online Shop für Treppen. Egal ob im Innen- oder Außenbereich. Wir bieten Innentreppen, Handläufe, Außentreppen und Zubehör für Treppen & Geländer.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Treppen & Geländer Hersteller",
-            "metaDescription": "Treppen & Geländer Manufacturer - Find the perfect staircase or railing for your home. We offer a wide range of options to choose from.",
+            "title": "Treppen & Geländer | Hersteller",
+            "metaDescription": "Die Auswahl an Treppenzubehör und Treppen für den Innen- und Außenbereich von unseren Top Herstellern wie Dieda, Dolle, Minka oder Fontanot.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Treppen & Geländer: $PRODUKT",
-        "defaultMetaDescription": "Treppen & Geländer von $HERSTELLER in $KATEGORIE. Finden Sie Ihr passendes Modell für Ihr Zuhause. $PRODUKT online bestellen.",
+        "defaultTitle": "$PRODUKT | Treppen & Geländer",
+        "defaultMetaDescription": "Kaufe jetzt $PRODUKT aus der Kategorie $KATEGORIE von unserem Top Hersteller $HERSTELLER. Dein Online Shop zum günstigen Preis.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Treppen & Geländer: $KATEGORIE für Ihr Zuhause",
-        "defaultMetaDescription": "Treppen & Geländer: Finden Sie die richtige $KATEGORIE für Ihr Zuhause bei OTTO! Große Auswahl Top Service Bestellen Sie jetzt Ihre Treppe bei OTTO!",
+        "defaultTitle": "$KATEGORIE für dein Zuhause",
+        "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte zu einem günstigen Preis. Dein Online Shop auf gelaenderundtreppen.de.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Treppen & Geländer $HERSTELLER - Hier finden Sie eine große Auswahl an Treppen & Geländern für Ihr Zuhause. Vom klassischen Holzgeländer bis zum modernen Edelstahlgeländer finden Sie bei uns alles, was Sie für Ihre Treppe benötigen.",
+        "defaultTitle": "$HERSTELLER | Geländer & Treppen Shop",
+        "defaultMetaDescription": "Hochwertige Produkte von $HERSTELLER zum günstigen Preis jetzt schnell und einfach kaufen. Dein günstiger Online Shop auf gelaenderundtreppen.de.",
         "defaultRobots": "index, follow",
         "brands": [
             {
