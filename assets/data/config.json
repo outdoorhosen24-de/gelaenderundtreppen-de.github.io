@@ -1,205 +1,212 @@
 {
-  "configIsReady": true,
-  "domain": "gelaenderundtreppen.de",
-  "hostname": "https://www.gelaenderundtreppen.de/",
-  "email": "gelaenderundtreppen.de@surrealnetworks.io",
-  "organization": "gelaenderundtreppen.de",
-  "logoText": "Gelaenderundtreppen.de",
-  "title": "Treppen & Geländer",
-  "subline": "Der Online Shop für Treppen & Geländer",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "8928434",
-    "7704018",
-    "9317769",
-    "7704224",
-    "7551070",
-    "4604419"
-  ],
-  "winnerProducts": [
-    "3882164",
-    "3882164",
-    "4987228"
-  ],
-  "featuredCategories": [
-    "Zubehör für Treppen & Geländer",
-    "Innentreppen",
-    "Zubehör für Treppen & Geländer",
-    "Innentreppen",
-    "Handläufe",
-    "Innentreppen"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Treppen & Geländer",
-    "featureText": "Hallo und Willkommen auf unserer Seite gelanderundtreppen.de. Wir freuen uns, dich hier begrüßen zu dürfen und empfangen dich mit einem großen Sortiment rund um die Treppe. Für deinen Innenbereich hallten wir nicht nur Innentreppen bereit, sondern auch Handläufe und Zubehör für Treppen & Geländer. Solltest du nach Treppen für deinen Außenbereich suchen, so wirst du sicherlich bei unseren Außentreppen fündig. Lass uns die nächste Stufe erklimmen!",
-    "index": {
-      "title": "Treppen & Geländer | Für Innen und Außen",
-      "metaDescription": "Für deinen Innen- oder Außenbereich. Mit unserer Auswahl an Innentreppen, Handläufe, Außentreppen und Zubehör für Treppen & Geländer wirst du sicher fündig. ",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Gelaender und Treppen - Ihrem Experten für Treppen und Geländer",
-            "text": "Herzlich Willkommen auf unserer Website www.gelaenderundtreppen.de, Ihrem Online-Shop für hochwertige Treppen und Geländer. Wir bieten Ihnen eine breite Auswahl an Produkten, die Ihnen dabei helfen, Ihr Zuhause sicher und stilvoll zu gestalten. Von Handläufen und Außentreppen bis hin zu Zubehör für Treppen und Geländer und Innentreppen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unsere Produkte zeichnen sich durch eine hervorragende Qualität und Langlebigkeit aus und werden von führenden Herstellern produziert. Überzeugen Sie sich selbst und besuchen Sie uns jetzt online."
-          },
-          {
-            "title": "Handläufe",
-            "text": "<a href=\"/kategorie/handlaeufe/\" title=\"Handläufe\">Handläufe</a> sind ein wichtiger Bestandteil von Treppen und Geländern. Sie dienen als Griffstange und bieten zusätzliche Sicherheit beim Auf- und Absteigen. In unserem Online-Shop finden Sie eine große Auswahl an Handläufen in verschiedenen Stilen und Materialien. Ob aus Edelstahl, Holz oder Kunststoff, wir haben für jeden Geschmack das passende Handlauf-Modell. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment."
-          },
-          {
-            "title": "Außentreppen",
-            "text": "Eine Außentreppe ist ein wichtiger Bestandteil jeder Terrasse oder jedes Gartens. Sie dient als Zugang zu Ihren Freiflächen und muss deshalb robust und langlebig sein. In unserem Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/aussentreppen/\" title=\"Aussentreppen\">Aussentreppen</a> in verschiedenen Materialien und Stilen. Ob aus Edelstahl, Holz oder Kunststoff, wir haben die passende Treppe für Ihre Bedürfnisse. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment."
-          },
-          {
-            "title": "Zubehör für Treppen & Geländer",
-            "text": "Das Zubehör für Treppen und Geländer ist ebenso wichtig wie die eigentlichen Bauteile. Es sorgt für Stabilität und Sicherheit und verleiht Ihren Treppen und Geländern ein individuelles Aussehen. In unserem Online-Shop finden Sie eine große Auswahl an Zubehör, von Haltern und Befestigungselementen bis hin zu dekorativen Elementen. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment und finden Sie das passende Zubehör für Ihre Treppen und Geländer."
-          },
-          {
-            "title": "Innentreppen: Der Blickfang im Inneren",
-            "text": "Innentreppen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie verbinden die verschiedenen Etagen miteinander und tragen zu einem harmonischen Gesamtbild bei. Mit einer Innentreppe können Sie nicht nur Ihren Wohnbereich optisch aufwerten, sondern auch praktische Funktionalität in den Raum bringen. Bei uns im Online-Shop finden Sie eine große Auswahl an hochwertigen Innentreppen, die Ihren Ansprüchen in Bezug auf Design, Material und Verarbeitung gerecht werden. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekte Innentreppe für Ihr Zuhause."
-          }
-        ]
-      }
-    },
-    "shop": {
-      "title": "Treppen & Geländer | Online Shop",
-      "metaDescription": "Der Online Shop für Treppen. Egal ob im Innen- oder Außenbereich. Wir bieten Innentreppen, Handläufe, Außentreppen und Zubehör für Treppen & Geländer.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Treppen & Geländer | Hersteller",
-      "metaDescription": "Die Auswahl an Treppenzubehör und Treppen für den Innen- und Außenbereich von unseren Top Herstellern wie Dieda, Dolle, Minka oder Fontanot.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | Treppen & Geländer",
-    "defaultMetaDescription": "Kaufe jetzt $PRODUKT aus der Kategorie $KATEGORIE von unserem Top Hersteller $HERSTELLER. Dein Online Shop zum günstigen Preis.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "3882164",
-        "seo": {
-          "texts": [
-            {
-              "title": "Dieda Handlaufset Kompakt Edelstahl 1200 mm",
-              "text": "<p class=\"justify\">Das Dieda Handlaufset Kompakt Edelstahl 1200 mm (GTIN: 4004589015826) ist eine ausgezeichnete Wahl für alle, die auf der Suche nach einem hochwertigen und langlebigen Handlauf sind. Dieses Produkt aus der Kategorie Handläufe ist ideal für den Innen- und Außenbereich geeignet und besticht durch seine einfache und schnelle Montage.</p><p class=\"justify\">Das Set besteht aus einem V2A Edelstahl Handlauf, der für seine Rostfreiheit und Stabilität bekannt ist. Die Handlaufkonsolen sind fest verschweißt, was für zusätzliche Sicherheit und Stabilität sorgt. Das Montagezubehör für die Wandbefestigung ist im Lieferumfang enthalten, so dass Sie keine weiteren Teile für die Installation benötigen. Die 1200 mm Länge des Handlaufs bietet ausreichend Platz für bequemes und sicheres Festhalten, während Sie auf einer Treppe oder einer Rampe unterwegs sind.</p><p class=\"justify\">Die Kombination aus hochwertigem Edelstahl und der einfachen Installation macht das Dieda Handlaufset Kompakt Edelstahl 1200 mm zur idealen Lösung für alle, die ihren Wohn- oder Arbeitsbereich sicherer und ansprechender gestalten möchten. Egal, ob Sie eine Treppe oder eine Rampe in Ihrem Haus, Ihrer Wohnung oder Ihrem Büro installieren möchten – das Dieda Handlaufset Kompakt Edelstahl 1200 mm wird Ihnen über viele Jahre hinweg gute Dienste leisten.</p><p class=\"justify\">Die hohe Kundenzufriedenheit zeigt sich in den zahlreichen positiven Bewertungen (4 Sterne bei 351 Bewertungen) für dieses Produkt. Die Kunden schätzen insbesondere die Materialqualität, das ansprechende Design und die einfache Montage. Warten Sie nicht länger und machen Sie Ihre Umgebung mit dem Dieda Handlaufset Kompakt Edelstahl 1200 mm noch sicherer und komfortabler.</p>"
+    "configIsReady": true,
+    "domain": "gelaenderundtreppen.de",
+    "hostname": "https://www.gelaenderundtreppen.de/",
+    "email": "gelaenderundtreppen.de@surrealnetworks.io",
+    "organization": "gelaenderundtreppen.de",
+    "logoText": "Gelaenderundtreppen.de",
+    "title": "Treppen & Geländer",
+    "subline": "Der Online Shop für Treppen & Geländer",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "8928434",
+        "7704018",
+        "9317769",
+        "7704224",
+        "7551070",
+        "4604419"
+    ],
+    "winnerProducts": [
+        "3882164",
+        "3882164",
+        "4987228"
+    ],
+    "featuredCategories": [
+        "Zubehör für Treppen & Geländer",
+        "Innentreppen",
+        "Zubehör für Treppen & Geländer",
+        "Innentreppen",
+        "Handläufe",
+        "Innentreppen"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Treppen & Geländer",
+        "featureText": "Hallo und Willkommen auf unserer Seite gelanderundtreppen.de. Wir freuen uns, dich hier begrüßen zu dürfen und empfangen dich mit einem großen Sortiment rund um die Treppe. Für deinen Innenbereich hallten wir nicht nur Innentreppen bereit, sondern auch Handläufe und Zubehör für Treppen & Geländer. Solltest du nach Treppen für deinen Außenbereich suchen, so wirst du sicherlich bei unseren Außentreppen fündig. Lass uns die nächste Stufe erklimmen!",
+        "index": {
+            "title": "Treppen & Geländer | Für Innen und Außen",
+            "metaDescription": "Für deinen Innen- oder Außenbereich. Mit unserer Auswahl an Innentreppen, Handläufe, Außentreppen und Zubehör für Treppen & Geländer wirst du sicher fündig. ",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Gelaender und Treppen - Ihrem Experten für Treppen und Geländer",
+                        "text": "Herzlich Willkommen auf unserer Website www.gelaenderundtreppen.de, Ihrem Online-Shop für hochwertige Treppen und Geländer. Wir bieten Ihnen eine breite Auswahl an Produkten, die Ihnen dabei helfen, Ihr Zuhause sicher und stilvoll zu gestalten. Von Handläufen und Außentreppen bis hin zu Zubehör für Treppen und Geländer und Innentreppen, bei uns finden Sie alles, was Sie für Ihr Projekt benötigen. Unsere Produkte zeichnen sich durch eine hervorragende Qualität und Langlebigkeit aus und werden von führenden Herstellern produziert. Überzeugen Sie sich selbst und besuchen Sie uns jetzt online."
+                    },
+                    {
+                        "title": "Handläufe",
+                        "text": "<a href=\"/kategorie/handlaeufe/\" title=\"Handläufe\">Handläufe</a> sind ein wichtiger Bestandteil von Treppen und Geländern. Sie dienen als Griffstange und bieten zusätzliche Sicherheit beim Auf- und Absteigen. In unserem Online-Shop finden Sie eine große Auswahl an Handläufen in verschiedenen Stilen und Materialien. Ob aus Edelstahl, Holz oder Kunststoff, wir haben für jeden Geschmack das passende Handlauf-Modell. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment."
+                    },
+                    {
+                        "title": "Außentreppen",
+                        "text": "Eine Außentreppe ist ein wichtiger Bestandteil jeder Terrasse oder jedes Gartens. Sie dient als Zugang zu Ihren Freiflächen und muss deshalb robust und langlebig sein. In unserem Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/aussentreppen/\" title=\"Aussentreppen\">Aussentreppen</a> in verschiedenen Materialien und Stilen. Ob aus Edelstahl, Holz oder Kunststoff, wir haben die passende Treppe für Ihre Bedürfnisse. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment."
+                    },
+                    {
+                        "title": "Zubehör für Treppen & Geländer",
+                        "text": "Das Zubehör für Treppen und Geländer ist ebenso wichtig wie die eigentlichen Bauteile. Es sorgt für Stabilität und Sicherheit und verleiht Ihren Treppen und Geländern ein individuelles Aussehen. In unserem Online-Shop finden Sie eine große Auswahl an Zubehör, von Haltern und Befestigungselementen bis hin zu dekorativen Elementen. Überzeugen Sie sich selbst von unserem umfangreichen Sortiment und finden Sie das passende Zubehör für Ihre Treppen und Geländer."
+                    },
+                    {
+                        "title": "Innentreppen: Der Blickfang im Inneren",
+                        "text": "Innentreppen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie verbinden die verschiedenen Etagen miteinander und tragen zu einem harmonischen Gesamtbild bei. Mit einer Innentreppe können Sie nicht nur Ihren Wohnbereich optisch aufwerten, sondern auch praktische Funktionalität in den Raum bringen. Bei uns im Online-Shop finden Sie eine große Auswahl an hochwertigen Innentreppen, die Ihren Ansprüchen in Bezug auf Design, Material und Verarbeitung gerecht werden. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekte Innentreppe für Ihr Zuhause."
+                    }
+                ]
             }
-          ]
+        },
+        "shop": {
+            "title": "Treppen & Geländer | Online Shop",
+            "metaDescription": "Der Online Shop für Treppen. Egal ob im Innen- oder Außenbereich. Wir bieten Innentreppen, Handläufe, Außentreppen und Zubehör für Treppen & Geländer.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Treppen & Geländer | Hersteller",
+            "metaDescription": "Die Auswahl an Treppenzubehör und Treppen für den Innen- und Außenbereich von unseren Top Herstellern wie Dieda, Dolle, Minka oder Fontanot.",
+            "robots": "index, follow"
         }
-      },
-      {
-        "sku": "4987228",
-        "seo": {
-          "texts": [
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | Treppen & Geländer",
+        "defaultMetaDescription": "Kaufe jetzt $PRODUKT aus der Kategorie $KATEGORIE von unserem Top Hersteller $HERSTELLER. Dein Online Shop zum günstigen Preis.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Dieda Handlauf Komplettset 52 mm x 1500 mm",
-              "text": "<p class=\"justify\">Das Dieda Handlauf Komplettset (SKU: 4987228) mit den Maßen 52 mm x 1500 mm ist die perfekte Lösung für alle, die auf der Suche nach einem hochwertigen Handlauf für den Innenbereich sind. Dieses Set beinhaltet alles, was Sie für eine erfolgreiche Montage benötigen, und besticht durch seine massive Buchenkonstruktion, die für Stabilität und Langlebigkeit sorgt. Die Im Set enthaltenen 2 Handlaufkonsolen und 2 Endkappen bieten zusätzliche Sicherheit und eine ansprechende Ästhetik.</p><p class=\"justify\">Mit einer GTIN13 von 4004589017455 wird dieser attraktive Handlaufset in der Kategorie Handläufe geführt und gehört zu den Produkten der Startseite, Bauen, Treppen & Geländer und natürlich Handläufe. Dank der einfachen Montage und Anleitung kann selbst ein Laie den Handlauf anbringen und von den Vorteilen profitieren. Die umfangreichen Produktbilder geben Ihnen einen genauen Eindruck von der Qualität und dem Design des Handlaufs.</p><p class=\"justify\">Für einen Preis von 49,99€ erhalten Sie ein Komplettset, das sich durch seine hervorragende Verarbeitung und sein stilvolles Design auszeichnet. Das Dieda Handlauf Komplettset hat bereits 174 Bewertungen erhalten und erfreut sich einer exzellenten 5-Sterne-Bewertung. Wenn Sie also auf der Suche nach einem verlässlichen Handlauf für Ihr Zuhause sind, der qualitativ hochwertig ist und eine einfache Montage ermöglicht, dann ist das Dieda Handlauf Komplettset mit den Maßen 52 mm x 1500 mm genau das Richtige für Sie!</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE für dein Zuhause",
-    "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte zu einem günstigen Preis. Dein Online Shop auf gelaenderundtreppen.de.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "3882164",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Dieda Handlaufset Kompakt Edelstahl 1200 mm",
+                            "text": "<p class=\"justify\">Das Dieda Handlaufset Kompakt Edelstahl 1200 mm (GTIN: 4004589015826) ist eine ausgezeichnete Wahl für alle, die auf der Suche nach einem hochwertigen und langlebigen Handlauf sind. Dieses Produkt aus der Kategorie Handläufe ist ideal für den Innen- und Außenbereich geeignet und besticht durch seine einfache und schnelle Montage.</p><p class=\"justify\">Das Set besteht aus einem V2A Edelstahl Handlauf, der für seine Rostfreiheit und Stabilität bekannt ist. Die Handlaufkonsolen sind fest verschweißt, was für zusätzliche Sicherheit und Stabilität sorgt. Das Montagezubehör für die Wandbefestigung ist im Lieferumfang enthalten, so dass Sie keine weiteren Teile für die Installation benötigen. Die 1200 mm Länge des Handlaufs bietet ausreichend Platz für bequemes und sicheres Festhalten, während Sie auf einer Treppe oder einer Rampe unterwegs sind.</p><p class=\"justify\">Die Kombination aus hochwertigem Edelstahl und der einfachen Installation macht das Dieda Handlaufset Kompakt Edelstahl 1200 mm zur idealen Lösung für alle, die ihren Wohn- oder Arbeitsbereich sicherer und ansprechender gestalten möchten. Egal, ob Sie eine Treppe oder eine Rampe in Ihrem Haus, Ihrer Wohnung oder Ihrem Büro installieren möchten – das Dieda Handlaufset Kompakt Edelstahl 1200 mm wird Ihnen über viele Jahre hinweg gute Dienste leisten.</p><p class=\"justify\">Die hohe Kundenzufriedenheit zeigt sich in den zahlreichen positiven Bewertungen (4 Sterne bei 351 Bewertungen) für dieses Produkt. Die Kunden schätzen insbesondere die Materialqualität, das ansprechende Design und die einfache Montage. Warten Sie nicht länger und machen Sie Ihre Umgebung mit dem Dieda Handlaufset Kompakt Edelstahl 1200 mm noch sicherer und komfortabler.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4987228",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Dieda Handlauf Komplettset 52 mm x 1500 mm",
+                            "text": "<p class=\"justify\">Das Dieda Handlauf Komplettset (SKU: 4987228) mit den Maßen 52 mm x 1500 mm ist die perfekte Lösung für alle, die auf der Suche nach einem hochwertigen Handlauf für den Innenbereich sind. Dieses Set beinhaltet alles, was Sie für eine erfolgreiche Montage benötigen, und besticht durch seine massive Buchenkonstruktion, die für Stabilität und Langlebigkeit sorgt. Die Im Set enthaltenen 2 Handlaufkonsolen und 2 Endkappen bieten zusätzliche Sicherheit und eine ansprechende Ästhetik.</p><p class=\"justify\">Mit einer GTIN13 von 4004589017455 wird dieser attraktive Handlaufset in der Kategorie Handläufe geführt und gehört zu den Produkten der Startseite, Bauen, Treppen & Geländer und natürlich Handläufe. Dank der einfachen Montage und Anleitung kann selbst ein Laie den Handlauf anbringen und von den Vorteilen profitieren. Die umfangreichen Produktbilder geben Ihnen einen genauen Eindruck von der Qualität und dem Design des Handlaufs.</p><p class=\"justify\">Für einen Preis von 49,99€ erhalten Sie ein Komplettset, das sich durch seine hervorragende Verarbeitung und sein stilvolles Design auszeichnet. Das Dieda Handlauf Komplettset hat bereits 174 Bewertungen erhalten und erfreut sich einer exzellenten 5-Sterne-Bewertung. Wenn Sie also auf der Suche nach einem verlässlichen Handlauf für Ihr Zuhause sind, der qualitativ hochwertig ist und eine einfache Montage ermöglicht, dann ist das Dieda Handlauf Komplettset mit den Maßen 52 mm x 1500 mm genau das Richtige für Sie!</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE für dein Zuhause",
+        "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte zu einem günstigen Preis. Dein Online Shop auf gelaenderundtreppen.de.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Geländer & Treppen Shop",
+        "defaultMetaDescription": "Hochwertige Produkte von $HERSTELLER zum günstigen Preis jetzt schnell und einfach kaufen. Dein günstiger Online Shop auf gelaenderundtreppen.de.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Treppen & Geländer",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Treppen & Geländer Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Treppen & Geländer Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Geländer & Treppen Shop",
-    "defaultMetaDescription": "Hochwertige Produkte von $HERSTELLER zum günstigen Preis jetzt schnell und einfach kaufen. Dein günstiger Online Shop auf gelaenderundtreppen.de.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Treppen & Geländer",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Treppen & Geländer Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Treppen & Geländer Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
